@@ -35,6 +35,12 @@ I focus on developing efficient, data-driven solutions and have experience imple
 | **Version Control** | `Git` • `GitHub` |
 
 ---
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[fatmhanafow]&show_icons=true&theme=vue&hide_border=true&count_private=true)" alt="Your GitHub Stats" style="width: 45%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[fatmhanafow]&layout=compact&langs_count=6&theme=vue&hide_border=true" alt="Top Languages" style="width: 45%;" />
+</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=[fatmhanafow] &show_icons=true&theme=vue&hide_border=true&count_private=true" alt="Your GitHub Stats" style="width: 45%;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[ fatmhanafow]&layout=compact&langs_count=6&theme=vue&hide_border=true" alt="Top Languages" style="width: 45%;" />
