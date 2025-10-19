@@ -29,23 +29,13 @@ I focus on developing efficient, data-driven solutions and have experience imple
 | Category | Skills & Tools |
 | :--- | :--- |
 | **Programming Languages** | `Python (Intermediate)` • `C++ (Intermediate)` • `SQL` |
-| **Machine Learning** | `TensorFlow` • `PyTorch` • `Scikit-learn` • |
-| **Data Analysis** | `Pandas` • `NumPy` • `Matplotlib` • `Seaborn` • `Jupyter` |
+| **Machine Learning** | `TensorFlow` • `PyTorch` • `Scikit-learn` •`sklearn` |
+| **Data Analysis** | `Pandas` • `NumPy` • `Matplotlib` • `Seaborn` • `Jupyter` •`Colab` |
 | **Algorithmic Programming**| `Data Structures` • `Competitive Programming (ICPC/Quera)` • `Time Complexity Analysis` |
 | **Version Control** | `Git` • `GitHub` |
 
 ---
-
-### 🔥 Featured Projects
-
-* **[Predictive-Sales-Forecasting](Link_to_Repo):** A time-series model built with Python to predict retail sales, showcasing advanced feature engineering and model evaluation.
-* **[High-Performance-Graph-Algorithms](Link_to_Repo):** C++ implementations of key graph algorithms (e.g., Dijkstra, MST) with a focus on optimization and speed for competitive programming.
-* **[Real-Estate-Data-EDA](Link_to_Repo):** Comprehensive Exploratory Data Analysis project on housing market data, demonstrating data cleaning, visualization, and insight generation using Pandas/Matplotlib.
-
-
-### 📊 GitHub Stats
-
 <p align="center">
-  <img src="YOUR_STATS_CARD_URL" alt="Your GitHub Stats" style="width: 45%;" />
-  <img src="YOUR_LANGUAGES_CARD_URL" alt="Top Languages" style="width: 45%;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=[fatmhanafow] &show_icons=true&theme=vue&hide_border=true&count_private=true" alt="Your GitHub Stats" style="width: 45%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[ fatmhanafow]&layout=compact&langs_count=6&theme=vue&hide_border=true" alt="Top Languages" style="width: 45%;" />
 </p>
